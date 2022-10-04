@@ -1,0 +1,2 @@
+[19:37:05:018] [http-nio-28083-exec-4] WARN  com.zaxxer.hikari.HikariConfig - hikariCP - idleTimeout is close to or more than maxLifetime, disabling it.
+[19:37:56:544] [hikariCP housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - hikariCP - Thread starvation or clock leap detected (housekeeper delta=51s307ms798µs500ns).

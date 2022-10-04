@@ -1,0 +1,27 @@
+[15:27:33:715] [main] INFO  com.example.blogstudy.BlogStudyApplication - Starting BlogStudyApplication using Java 1.8.0_172 on MSI with PID 12236 (C:\Users\OuYangCong\IdeaProjects\blog-study\target\classes started by OuYangCong in C:\Users\OuYangCong\IdeaProjects\blog-study)
+[15:27:33:722] [main] INFO  com.example.blogstudy.BlogStudyApplication - No active profile set, falling back to 1 default profile: "default"
+[15:27:34:283] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28083 (http)
+[15:27:34:287] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28083"]
+[15:27:34:287] [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[15:27:34:287] [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[15:27:34:357] [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[15:27:34:357] [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 588 ms
+[15:27:34:767] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28083"]
+[15:27:34:772] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-28083"]
+[15:27:34:772] [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[15:27:34:774] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-28083"]
+[15:27:34:775] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-28083"]
+[15:27:34:780] [main] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[15:27:57:177] [main] INFO  com.example.blogstudy.BlogStudyApplication - Starting BlogStudyApplication using Java 1.8.0_172 on MSI with PID 16892 (C:\Users\OuYangCong\IdeaProjects\blog-study\target\classes started by OuYangCong in C:\Users\OuYangCong\IdeaProjects\blog-study)
+[15:27:57:183] [main] INFO  com.example.blogstudy.BlogStudyApplication - No active profile set, falling back to 1 default profile: "default"
+[15:27:57:737] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28083 (http)
+[15:27:57:741] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28083"]
+[15:27:57:742] [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[15:27:57:742] [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[15:27:57:810] [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[15:27:57:811] [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 581 ms
+[15:27:58:209] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28083"]
+[15:27:58:218] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 28083 (http) with context path ''
+[15:27:58:224] [main] INFO  com.example.blogstudy.BlogStudyApplication - Started BlogStudyApplication in 1.231 seconds (JVM running for 1.785)

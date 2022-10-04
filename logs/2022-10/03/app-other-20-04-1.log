@@ -1,0 +1,13 @@
+[20:04:53:276] [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Shutdown initiated...
+[20:04:53:278] [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Shutdown completed.
+[20:04:56:623] [main] INFO  com.example.blogstudy.BlogStudyApplication - Starting BlogStudyApplication using Java 1.8.0_172 on MSI with PID 26576 (C:\Users\OuYangCong\IdeaProjects\blog-study\target\classes started by OuYangCong in C:\Users\OuYangCong\IdeaProjects\blog-study)
+[20:04:56:629] [main] INFO  com.example.blogstudy.BlogStudyApplication - No active profile set, falling back to 1 default profile: "default"
+[20:04:57:214] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28083 (http)
+[20:04:57:218] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28083"]
+[20:04:57:218] [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[20:04:57:219] [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[20:04:57:287] [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[20:04:57:288] [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 608 ms
+[20:04:57:701] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28083"]
+[20:04:57:711] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 28083 (http) with context path ''
+[20:04:57:717] [main] INFO  com.example.blogstudy.BlogStudyApplication - Started BlogStudyApplication in 1.282 seconds (JVM running for 1.859)

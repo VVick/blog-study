@@ -1,0 +1,18 @@
+[17:27:30:870] [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Shutdown initiated...
+[17:27:30:873] [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Shutdown completed.
+[17:27:34:810] [main] INFO  com.example.blogstudy.BlogStudyApplication - Starting BlogStudyApplication using Java 1.8.0_172 on MSI with PID 14308 (C:\Users\OuYangCong\IdeaProjects\blog-study\target\classes started by OuYangCong in C:\Users\OuYangCong\IdeaProjects\blog-study)
+[17:27:34:816] [main] INFO  com.example.blogstudy.BlogStudyApplication - No active profile set, falling back to 1 default profile: "default"
+[17:27:35:399] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28083 (http)
+[17:27:35:404] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28083"]
+[17:27:35:404] [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[17:27:35:404] [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[17:27:35:471] [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[17:27:35:471] [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 605 ms
+[17:27:35:897] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28083"]
+[17:27:35:908] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 28083 (http) with context path ''
+[17:27:35:914] [main] INFO  com.example.blogstudy.BlogStudyApplication - Started BlogStudyApplication in 1.286 seconds (JVM running for 1.829)
+[17:27:40:196] [http-nio-28083-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[17:27:40:196] [http-nio-28083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[17:27:40:197] [http-nio-28083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[17:27:44:791] [http-nio-28083-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Starting...
+[17:27:44:881] [http-nio-28083-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Start completed.

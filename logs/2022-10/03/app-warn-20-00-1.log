@@ -1,0 +1,4 @@
+[20:00:23:407] [main] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'configController' method 
+com.example.blogstudy.controller.admin.ConfigController#updateUserInfo(String, String, String)
+to {POST [/admin/configurations/website]}: There is already 'configController' bean method
+com.example.blogstudy.controller.admin.ConfigController#updateWebsite(String, String, String, String) mapped.

@@ -1,0 +1,5 @@
+[19:49:04:238] [http-nio-28083-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[19:49:04:238] [http-nio-28083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[19:49:04:239] [http-nio-28083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[19:49:07:893] [http-nio-28083-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Starting...
+[19:49:07:989] [http-nio-28083-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Start completed.

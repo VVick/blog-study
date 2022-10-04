@@ -1,0 +1,16 @@
+[19:09:02:362] [main] INFO  com.example.blogstudy.BlogStudyApplication - Starting BlogStudyApplication using Java 1.8.0_172 on MSI with PID 8036 (C:\Users\OuYangCong\IdeaProjects\blog-study\target\classes started by OuYangCong in C:\Users\OuYangCong\IdeaProjects\blog-study)
+[19:09:02:369] [main] INFO  com.example.blogstudy.BlogStudyApplication - No active profile set, falling back to 1 default profile: "default"
+[19:09:02:977] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28083 (http)
+[19:09:02:983] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28083"]
+[19:09:02:983] [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[19:09:02:983] [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[19:09:03:072] [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[19:09:03:072] [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 654 ms
+[19:09:03:540] [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28083"]
+[19:09:03:551] [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 28083 (http) with context path ''
+[19:09:03:556] [main] INFO  com.example.blogstudy.BlogStudyApplication - Started BlogStudyApplication in 1.399 seconds (JVM running for 2.031)
+[19:09:31:352] [http-nio-28083-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[19:09:31:352] [http-nio-28083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[19:09:31:353] [http-nio-28083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[19:09:34:911] [http-nio-28083-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Starting...
+[19:09:35:000] [http-nio-28083-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - hikariCP - Start completed.

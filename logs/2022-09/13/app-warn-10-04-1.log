@@ -1,0 +1,1 @@
+[10:04:34:445] [http-nio-28083-exec-8] WARN  com.zaxxer.hikari.HikariConfig - hikariCP - idleTimeout is close to or more than maxLifetime, disabling it.
